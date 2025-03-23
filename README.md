@@ -1,0 +1,2 @@
+# OpenCartIgnoreFiles
+OpenCart Ignore Files
